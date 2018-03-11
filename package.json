@@ -1,0 +1,8 @@
+{
+  "name": "eS6babelmodular",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
